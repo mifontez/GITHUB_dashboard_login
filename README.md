@@ -1,2 +1,2 @@
 # My project
-Github login with HTML + CSS
+Github dashboard login with HTML + CSS
